@@ -13,4 +13,10 @@ a {
 
 * {
   box-sizing: border-box;
+  background-color: rgb(17, 16, 16);
+    color: white;
+}
+
+ul{
+  list-style: none;
 }
