@@ -10,8 +10,8 @@ export default function Home() {
       <h3>A backend Web Developer.</h3>
       <div>{"{"}</div>
       <ul>
-        <li>backend_Environment : "NodeJS"</li>
-        <li>backend_Framework : "Express"</li>
+        <li>backend_Environment : "NodeJS",</li>
+        <li>backend_Framework : "Express",</li>
         <li>database : "MongoDB"</li>
       </ul>
       <div>{"}"}</div>

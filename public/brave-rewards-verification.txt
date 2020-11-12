@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: njayman.tech
+Token: 14edd6d70ede88c57786e72dce5e21c7393846363c577c4951c4174bbeaf503a
